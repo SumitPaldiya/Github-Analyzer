@@ -34,7 +34,7 @@ A Python application that shows github user's info using the GitHub API.
    ```
 
 ## Usage
-
+First set your "ACCESS_TOKEN" in .env file. You can find your access token from github's website.  
 Run the application:
 
 ```bash
